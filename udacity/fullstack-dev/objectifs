@@ -1,0 +1,10 @@
+1. Afficher tous les restaurants est la page par defaut
+localhost:8080/restaurants ---> affiche tous les restaurants
+
+2. Ajouter un lien edit et delete pour chaque restaurant
+
+3. Ajouter une page qui permet d'ajouter un nouveau restaurant
+
+4. en cliquant sur le edit l'utlisateur peut renomer un restaurant
+
+5. en cliquant sur delete l'utilsateur est envoyé sur une page de confirmation qui lui demande la confirmation. Il faut envoyer un POST quand la suppression est confirmé
